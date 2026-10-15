@@ -4,6 +4,6 @@ The multi-sensor interface IP based on Verilog HDL includes sensing of temperatu
 
 Project Contributors:
 This project was collaboratively designed,implemented,and simulated by:
-1. Your Name-Verilog HDL design and simulation.
-2. Your Friend's Name-Verilog HDL design and simulation.
+1. Geetasri anjaneyulu-Verilog HDL design and simulation.
+2. Geeta prameela-Verilog HDL design and simulation.
    Both contributors worked together on the design,testbench development,and verification of the Reliability-Aware Multi-Sensor Interface IP using AMD Xilinx Vivado.
